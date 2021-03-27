@@ -6,6 +6,7 @@ public class FirstCode {
 		System.out.println("Hello World");
 		int a=10;
 		System.out.println(a);
+		System.out.println("added a note");
 	}
 
 }
